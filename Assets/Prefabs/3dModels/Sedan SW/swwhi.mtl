@@ -1,0 +1,55 @@
+#
+# Wavefront material file: d:\projects\filmburn\cars\01-complete\0final\1disk\3dmodels\subaruwrx\swbla.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 02/26/2003 17:25:56
+#
+# Bounding box of geometry = (-37.0239,2.86102e-006,-86.7076) to (37.0239,60.9672,86.7076).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl SWWhite
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.25 0.25 0.25
+	Ka 0 0 0
+	map_Kd swwhid.jpg
+	map_bump -bm 0.403125 swb.jpg
+	map_refl -type sphere rflbody.jpg
+
+newmtl SWTire
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.15 0.15 0.15
+	Ka 0 0 0
+	map_Kd swtired.jpg
+	map_bump -bm 0.403125 swtireb.jpg
+	map_refl -type sphere rflbody.jpg
+
+newmtl SWGlass
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.5 0.5 0.5
+	Ka 0 0 0
+	map_d swglass.jpg
+	map_refl -type sphere rflglass.jpg
+
+newmtl SWInterior
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.117647 0.117647 0.117647
+	Ks 0 0 0
+	Ka 0.117647 0.117647 0.117647

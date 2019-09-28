@@ -1,0 +1,56 @@
+#
+# Wavefront material file: d:\projects\filmburn\cars\01-complete\0final\1disk\3dmodels\hondaaccord\habla.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 02/26/2003 10:55:54
+#
+# Bounding box of geometry = (-38.2673,2.93679e-006,-91.4486) to (38.2673,53.5227,91.4486).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl HAGreen
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.25 0.25 0.25
+	Ka 0 0 0
+	map_Kd hagred.jpg
+	map_bump -bm 0.403125 hab.jpg
+	map_refl -type sphere rflbody.jpg
+
+newmtl HAGlass
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.5 0.5 0.5
+	Ka 0 0 0
+	map_d haglass.jpg
+	map_refl -type sphere rflglass.jpg
+
+newmtl HAInterior
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.545098 0.545098 0.521569
+	Ks 0 0 0
+	Ka 0.321569 0.321569 0.270588
+
+newmtl HATire
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.15 0.15 0.15
+	Ka 0 0 0
+	map_Kd hatired.jpg
+	map_bump -bm 0.403125 hatireb.jpg
+	map_refl -type sphere rflbody.jpg
+

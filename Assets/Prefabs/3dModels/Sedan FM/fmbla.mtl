@@ -1,0 +1,56 @@
+#
+# Wavefront material file: d:\projects\filmburn\cars\01-complete\0final\1disk\3dmodels\fordmustang\fmbla.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 02/26/2003 10:20:34
+#
+# Bounding box of geometry = (-40.9792,2.78544e-006,-92.1827) to (40.9792,56.9371,92.1827).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl FMBlack
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.25 0.25 0.25
+	Ka 0 0 0
+	map_Kd fmblad.jpg
+	map_bump -bm 0.403125 fmb.jpg
+	map_refl -type sphere rflbody.jpg
+
+newmtl FMGlass
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.5 0.5 0.5
+	Ka 0 0 0
+	map_d fmglass.jpg
+	map_refl -type sphere rflglass.jpg
+
+newmtl FMInterior
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.545098 0.545098 0.521569
+	Ks 0 0 0
+	Ka 0.321569 0.321569 0.270588
+
+newmtl FMTire
+	Ns 3
+	d 1
+	illum 2
+	Kd 0 0 0
+	Ks 0.15 0.15 0.15
+	Ka 0 0 0
+	map_Kd fmtired.jpg
+	map_bump -bm 0.403125 fmtireb.jpg
+	map_refl -type sphere rflbody.jpg
+

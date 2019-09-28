@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: d6e8033471c4d944691c390584705048
+timeCreated: 1466875581
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FMBlaB
+    100004: FMBlaG
+    100006: FMBlaI
+    100008: FMBlaT00
+    100010: FMBlaT01
+    100012: FMBlaT02
+    100014: FMBlaT03
+    400000: //RootNode
+    400002: FMBlaB
+    400004: FMBlaG
+    400006: FMBlaI
+    400008: FMBlaT00
+    400010: FMBlaT01
+    400012: FMBlaT02
+    400014: FMBlaT03
+    2300000: FMBlaB
+    2300002: FMBlaG
+    2300004: FMBlaI
+    2300006: FMBlaT00
+    2300008: FMBlaT01
+    2300010: FMBlaT02
+    2300012: FMBlaT03
+    3300000: FMBlaB
+    3300002: FMBlaG
+    3300004: FMBlaI
+    3300006: FMBlaT00
+    3300008: FMBlaT01
+    3300010: FMBlaT02
+    3300012: FMBlaT03
+    4300000: FMBlaB
+    4300002: FMBlaG
+    4300004: FMBlaI
+    4300006: FMBlaT00
+    4300008: FMBlaT01
+    4300010: FMBlaT02
+    4300012: FMBlaT03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
